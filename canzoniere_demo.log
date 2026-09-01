@@ -1,0 +1,933 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.8.24)  1 SEP 2026 12:02
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/2003a/OneDrive/Documenti/canzoniere_nuovo/canzoniere_demo.tex
+(c:/Users/2003a/OneDrive/Documenti/canzoniere_nuovo/canzoniere_demo.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count195
+\Gm@cntv=\count196
+\c@Gm@tempcnt=\count197
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks18
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/arial\uarial.sty
+Package: uarial 2006/03/21 1.0 (WaS)
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/anyfontsize\anyfontsize.sty
+Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip50
+\f@nch@offset@elh=\skip51
+\f@nch@offset@erh=\skip52
+\f@nch@offset@olh=\skip53
+\f@nch@offset@orh=\skip54
+\f@nch@offset@elf=\skip55
+\f@nch@offset@erf=\skip56
+\f@nch@offset@olf=\skip57
+\f@nch@offset@orf=\skip58
+\f@nch@height=\skip59
+\f@nch@footalignment=\skip60
+\f@nch@widthL=\skip61
+\f@nch@widthC=\skip62
+\f@nch@widthR=\skip63
+\@temptokenb=\toks21
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+\babel@savecnt=\count198
+\U@D=\dimen149
+\l@unhyphenated=\language79
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count199
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/babel-italian\italian.ldf
+Language: italian 2024/10/10 v.1.5.01 Italian support for the babel system
+\it@lettering=\count266
+\it@doublequoteactive=\count267
+\it@ISOcompliance=\count268
+)) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/it\babel-italian.tex
+Package babel Info: Importing font and identification data for italian
+(babel)             from babel-it.ini. Reported on input line 11.
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count269
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/songs\songs.sty
+Package: songs 2018/09/12 v3.1 Songs package
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+\SB@dimen=\dimen150
+\SB@dimenii=\dimen151
+\SB@dimeniii=\dimen152
+\SB@dimeniv=\dimen153
+\SB@box=\box51
+\SB@boxii=\box52
+\SB@boxiii=\box53
+\SB@toks=\toks22
+\SB@cnt=\count270
+\SB@cntii=\count271
+\SB@skip=\skip64
+\SB@envbox=\box54
+\c@songnum=\count272
+\c@versenum=\count273
+\versesep=\skip65
+\afterpreludeskip=\skip66
+\beforepostludeskip=\skip67
+\baselineadj=\skip68
+\idxheadwidth=\skip69
+\songnumwidth=\skip70
+LaTeX Font Info:    Trying to load font information for T1+ua1 on input line 141.
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/arial\t1ua1.fd
+File: t1ua1.fd 2006/03/21 Fontinst v1.928 font definitions for T1/ua1.
+)
+LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
+(Font)              scaled to size 11.39996pt on input line 141.
+LaTeX Font Info:    Font shape `T1/ua1/bx/n' in size <12> not available
+(Font)              Font shape `T1/ua1/b/n' tried instead on input line 141.
+LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
+(Font)              scaled to size 11.39996pt on input line 141.
+LaTeX Font Info:    Font shape `T1/ua1/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/ua1/b/n' tried instead on input line 141.
+LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
+(Font)              scaled to size 19.70294pt on input line 141.
+\versenumwidth=\skip71
+\cbarwidth=\skip72
+\sbarheight=\skip73
+\vvpenalty=\count274
+\ccpenalty=\count275
+\vcpenalty=\count276
+\cvpenalty=\count277
+\brkpenalty=\count278
+\spenalty=\count279
+\minfrets=\count280
+\SB@colwidth=\dimen154
+\SB@songbox=\box55
+\SB@numcols=\count281
+\SB@colnum=\count282
+\SB@colbox=\box56
+\SB@pgbox=\box57
+\SB@mrkbox=\box58
+\SB@groupcnt=\count283
+\SB@titlelist=\toks23
+\SB@titletail=\toks24
+\SB@parindent=\dimen155
+\SB@chorusbox=\box59
+\SB@cmarkclass=\marks4
+\SB@nocmarkclass=\marks5
+\SB@grouplvl=\count284
+\SB@transposefactor=\count285
+\SB@lyric=\toks25
+\SB@numhyps=\count286
+\SB@lyricnohyp=\toks26
+\SB@lyricbox=\box60
+\SB@chordbox=\box61
+\SB@cr@=\toks27
+\SB@ctail=\toks28
+\SB@fretwidth=\skip74
+\SB@tabindent=\dimen156
+\c@SB@songsnum=\count287
+\SB@songwrites=\box62
+LaTeX Font Info:    Font shape `T1/ua1/m/sl' in size <12> not available
+(Font)              Font shape `T1/ua1/m/it' tried instead on input line 3785.
+LaTeX Font Info:    Font shape `T1/ua1/m/it' will be
+(Font)              scaled to size 11.39996pt on input line 3785.
+LaTeX Font Info:    Font shape `T1/ua1/m/sl' in size <14.4> not available
+(Font)              Font shape `T1/ua1/m/it' tried instead on input line 3785.
+LaTeX Font Info:    Font shape `T1/ua1/m/it' will be
+(Font)              scaled to size 13.67995pt on input line 3785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 3785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3785.
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx))) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count288
+)
+\@linkdim=\dimen157
+\Hy@linkcounter=\count289
+\Hy@pagecounter=\count290
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count291
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4181.
+Package hyperref Info: Link nesting OFF on input line 4186.
+Package hyperref Info: Hyper index ON on input line 4189.
+Package hyperref Info: Plain pages OFF on input line 4196.
+Package hyperref Info: Backreferencing OFF on input line 4201.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4448.
+\c@Hy@tempcnt=\count292
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4786.
+\XeTeXLinkMargin=\dimen158
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count293
+\Field@Width=\dimen159
+\Fld@charsize=\dimen160
+Package hyperref Info: Hyper figures OFF on input line 6065.
+Package hyperref Info: Link nesting OFF on input line 6070.
+Package hyperref Info: Hyper index ON on input line 6073.
+Package hyperref Info: backreferencing OFF on input line 6080.
+Package hyperref Info: Link coloring OFF on input line 6085.
+Package hyperref Info: Link coloring with OCG OFF on input line 6090.
+Package hyperref Info: PDF/A mode OFF on input line 6095.
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count294
+\c@Item=\count295
+\c@Hfootnote=\count296
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count297
+\c@bookmark@seq@number=\count298
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+)
+\Hy@SectionHShift=\skip75
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen161
+\Gin@req@width=\dimen162
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+LaTeX Info: Redefining \color on input line 758.
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+\SB@out=\write3
+\openout3 = `canzoniere_demo.sxc'.
+
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count299
+\l__pdf_internal_box=\box63
+) (canzoniere_demo.aux)
+\openout1 = `canzoniere_demo.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=28.45274pt
+* \marginparwidth=85.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \it@ocap on input line 105.
+LaTeX Info: Redefining \it@ccap on input line 105.
+(C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count300
+\scratchdimen=\dimen163
+\scratchbox=\box64
+\nofMPsegments=\count301
+\nofMParguments=\count302
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count303
+\MPscratchDim=\dimen164
+\MPnumerator=\count304
+\makeMPintoPDFobject=\count305
+\everyMPtoPDFconversion=\toks30
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring OFF on input line 105.
+ (canzoniere_demo.out) (canzoniere_demo.out)
+\@outlinefile=\write4
+\openout4 = `canzoniere_demo.out'.
+
+<immagini/cop0.jpeg, id=795, 984.67876pt x 1606.0pt>
+File: immagini/cop0.jpeg Graphic file (type jpg)
+<use immagini/cop0.jpeg>
+Package pdftex.def Info: immagini/cop0.jpeg  used on input line 115.
+(pdftex.def)             Requested size: 409.71692pt x 668.24199pt.
+ [-1
+
+ <./immagini/cop0.jpeg>]
+<immagini/img1.jpeg, id=801, 2013.5225pt x 2013.5225pt>
+File: immagini/img1.jpeg Graphic file (type jpg)
+<use immagini/img1.jpeg>
+Package pdftex.def Info: immagini/img1.jpeg  used on input line 122.
+(pdftex.def)             Requested size: 364.19667pt x 364.16968pt.
+ [0 <./immagini/img1.jpeg>]
+LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
+(Font)              scaled to size 16.41594pt on input line 139.
+LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
+(Font)              scaled to size 16.41594pt on input line 139.
+<immagini/cop1.jpeg, id=806, 984.67876pt x 1606.0pt>
+File: immagini/cop1.jpeg Graphic file (type jpg)
+<use immagini/cop1.jpeg>
+Package pdftex.def Info: immagini/cop1.jpeg  used on input line 143.
+(pdftex.def)             Requested size: 364.19667pt x 593.99016pt.
+ [1{C:/Users/2003a/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/2003a/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./immagini/cop1.jpeg>]
+LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
+(Font)              scaled to size 13.67995pt on input line 152.
+LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
+(Font)              scaled to size 13.67995pt on input line 152.
+LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
+(Font)              scaled to size 15.19995pt on input line 168.
+LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
+(Font)              scaled to size 5.69998pt on input line 168.
+LaTeX Font Info:    Font shape `T1/ua1/m/sl' in size <6> not available
+(Font)              Font shape `T1/ua1/m/it' tried instead on input line 168.
+LaTeX Font Info:    Font shape `T1/ua1/m/it' will be
+(Font)              scaled to size 5.69998pt on input line 168.
+LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
+(Font)              scaled to size 5.69998pt on input line 168.
+ [2] [3] [4] [5] [6]
+<immagini/cop2.jpeg, id=835, 984.67876pt x 1606.0pt>
+File: immagini/cop2.jpeg Graphic file (type jpg)
+<use immagini/cop2.jpeg>
+Package pdftex.def Info: immagini/cop2.jpeg  used on input line 386.
+(pdftex.def)             Requested size: 364.19667pt x 593.99016pt.
+ [7
+
+ <./immagini/cop2.jpeg>] [8] [9] [10]
+<immagini/p/ang.jpeg, id=854, 2013.5225pt x 2013.5225pt>
+File: immagini/p/ang.jpeg Graphic file (type jpg)
+<use immagini/p/ang.jpeg>
+Package pdftex.def Info: immagini/p/ang.jpeg  used on input line 540.
+(pdftex.def)             Requested size: 318.66948pt x 318.66766pt.
+ [11 <./immagini/p/ang.jpeg>] [12]
+<immagini/p/ave.jpeg, id=864, 2013.5225pt x 2013.5225pt>
+File: immagini/p/ave.jpeg Graphic file (type jpg)
+<use immagini/p/ave.jpeg>
+Package pdftex.def Info: immagini/p/ave.jpeg  used on input line 611.
+(pdftex.def)             Requested size: 318.66948pt x 318.66766pt.
+ [13 <./immagini/p/ave.jpeg>] [14] [15] [16] [17]
+<immagini/p/can.jpeg, id=886, 2569.6pt x 1575.8875pt>
+File: immagini/p/can.jpeg Graphic file (type jpg)
+<use immagini/p/can.jpeg>
+Package pdftex.def Info: immagini/p/can.jpeg  used on input line 782.
+(pdftex.def)             Requested size: 455.24411pt x 279.17494pt.
+ [18 <./immagini/p/can.jpeg>] [19]
+<immagini/p/com.jpeg, id=895, 2013.5225pt x 2013.5225pt>
+File: immagini/p/com.jpeg Graphic file (type jpg)
+<use immagini/p/com.jpeg>
+Package pdftex.def Info: immagini/p/com.jpeg  used on input line 851.
+(pdftex.def)             Requested size: 318.66948pt x 318.66766pt.
+ [20 <./immagini/p/com.jpeg>] [21] [22] [23] [24]
+<immagini/p/fru.jpeg, id=917, 2013.5225pt x 2013.5225pt>
+File: immagini/p/fru.jpeg Graphic file (type jpg)
+<use immagini/p/fru.jpeg>
+Package pdftex.def Info: immagini/p/fru.jpeg  used on input line 1027.
+(pdftex.def)             Requested size: 318.66948pt x 318.66766pt.
+ [25 <./immagini/p/fru.jpeg>] [26] [27] [28] [29] [30]
+<immagini/p/isa.jpeg, id=943, 2013.5225pt x 2013.5225pt>
+File: immagini/p/isa.jpeg Graphic file (type jpg)
+<use immagini/p/isa.jpeg>
+Package pdftex.def Info: immagini/p/isa.jpeg  used on input line 1227.
+(pdftex.def)             Requested size: 318.66948pt x 318.66766pt.
+ [31 <./immagini/p/isa.jpeg>] [32] [33] [34] [35]
+<immagini/p/lun.jpeg, id=965, 2013.5225pt x 2013.5225pt>
+File: immagini/p/lun.jpeg Graphic file (type jpg)
+<use immagini/p/lun.jpeg>
+Package pdftex.def Info: immagini/p/lun.jpeg  used on input line 1428.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [36] [37 <./immagini/p/lun.jpeg>] [38]
+<immagini/p/man.jpeg, id=978, 2013.5225pt x 2013.5225pt>
+File: immagini/p/man.jpeg Graphic file (type jpg)
+<use immagini/p/man.jpeg>
+Package pdftex.def Info: immagini/p/man.jpeg  used on input line 1485.
+(pdftex.def)             Requested size: 318.66948pt x 318.66766pt.
+ [39 <./immagini/p/man.jpeg>] [40] [41]
+<immagini/p/ogn.jpeg, id=992, 2013.5225pt x 2013.5225pt>
+File: immagini/p/ogn.jpeg Graphic file (type jpg)
+<use immagini/p/ogn.jpeg>
+Package pdftex.def Info: immagini/p/ogn.jpeg  used on input line 1604.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [42] [43 <./immagini/p/ogn.jpeg>] [44]
+<immagini/p/pac.jpeg, id=1005, 2013.5225pt x 2013.5225pt>
+File: immagini/p/pac.jpeg Graphic file (type jpg)
+<use immagini/p/pac.jpeg>
+Package pdftex.def Info: immagini/p/pac.jpeg  used on input line 1652.
+(pdftex.def)             Requested size: 318.66948pt x 318.66766pt.
+ [45 <./immagini/p/pac.jpeg>] [46] [47]
+<immagini/p/res.jpeg, id=1019, 2013.5225pt x 2013.5225pt>
+File: immagini/p/res.jpeg Graphic file (type jpg)
+<use immagini/p/res.jpeg>
+Package pdftex.def Info: immagini/p/res.jpeg  used on input line 1782.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [48] [49 <./immagini/p/res.jpeg>] [50] [51] [52] [53] [54]
+<immagini/p/ser.jpeg, id=1049, 2013.5225pt x 2013.5225pt>
+File: immagini/p/ser.jpeg Graphic file (type jpg)
+<use immagini/p/ser.jpeg>
+Package pdftex.def Info: immagini/p/ser.jpeg  used on input line 2009.
+(pdftex.def)             Requested size: 318.66948pt x 318.66766pt.
+ [55 <./immagini/p/ser.jpeg>] [56] [57] [58] [59] [60] [61] [62]
+<immagini/p/ver.jpeg, id=1083, 2013.5225pt x 2013.5225pt>
+File: immagini/p/ver.jpeg Graphic file (type jpg)
+<use immagini/p/ver.jpeg>
+Package pdftex.def Info: immagini/p/ver.jpeg  used on input line 2295.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [63 <./immagini/p/ver.jpeg>] [64] [65]
+<immagini/cop3.jpeg, id=1097, 984.67876pt x 1606.0pt>
+File: immagini/cop3.jpeg Graphic file (type jpg)
+<use immagini/cop3.jpeg>
+Package pdftex.def Info: immagini/cop3.jpeg  used on input line 2391.
+(pdftex.def)             Requested size: 364.19667pt x 593.99016pt.
+ [66
+
+ <./immagini/cop3.jpeg>]
+<immagini/s/alc.jpeg, id=1103, 2569.6pt x 1575.8875pt>
+File: immagini/s/alc.jpeg Graphic file (type jpg)
+<use immagini/s/alc.jpeg>
+Package pdftex.def Info: immagini/s/alc.jpeg  used on input line 2422.
+(pdftex.def)             Requested size: 455.24411pt x 279.17494pt.
+ [67 <./immagini/s/alc.jpeg>]
+<immagini/s/alch.jpeg, id=1108, 2013.5225pt x 2013.5225pt>
+File: immagini/s/alch.jpeg Graphic file (type jpg)
+<use immagini/s/alch.jpeg>
+Package pdftex.def Info: immagini/s/alch.jpeg  used on input line 2464.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [68] [69 <./immagini/s/alch.jpeg>] [70]
+LaTeX Font Info:    Trying to load font information for TS1+ua1 on input line 2531.
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/arial\ts1ua1.fd
+File: ts1ua1.fd 2006/03/21 Fontinst v1.928 font definitions for TS1/ua1.
+)
+LaTeX Font Info:    Font shape `TS1/ua1/b/n' will be
+(Font)              scaled to size 13.67995pt on input line 2531.
+ [71] [72] [73]
+<immagini/s/strp.jpeg, id=1134, 2569.6pt x 1575.8875pt>
+File: immagini/s/strp.jpeg Graphic file (type jpg)
+<use immagini/s/strp.jpeg>
+Package pdftex.def Info: immagini/s/strp.jpeg  used on input line 2653.
+(pdftex.def)             Requested size: 455.24411pt x 279.17494pt.
+ [74 <./immagini/s/strp.jpeg>]
+<immagini/s/pro.jpeg, id=1139, 2012.51875pt x 2012.51875pt>
+File: immagini/s/pro.jpeg Graphic file (type jpg)
+<use immagini/s/pro.jpeg>
+Package pdftex.def Info: immagini/s/pro.jpeg  used on input line 2686.
+(pdftex.def)             Requested size: 318.66948pt x 318.66235pt.
+ [75 <./immagini/s/pro.jpeg>] [76] [77]
+<immagini/s/car.jpeg, id=1153, 2013.5225pt x 2013.5225pt>
+File: immagini/s/car.jpeg Graphic file (type jpg)
+<use immagini/s/car.jpeg>
+Package pdftex.def Info: immagini/s/car.jpeg  used on input line 2807.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [78] [79 <./immagini/s/car.jpeg>] [80]
+<immagini/s/cen.jpeg, id=1166, 2569.6pt x 1575.8875pt>
+File: immagini/s/cen.jpeg Graphic file (type jpg)
+<use immagini/s/cen.jpeg>
+Package pdftex.def Info: immagini/s/cen.jpeg  used on input line 2867.
+(pdftex.def)             Requested size: 455.24411pt x 279.17494pt.
+ [81 <./immagini/s/cen.jpeg>] [82] [83] [84] [85] [86] [87]
+<immagini/s/ele.jpeg, id=1196, 2013.5225pt x 2013.5225pt>
+File: immagini/s/ele.jpeg Graphic file (type jpg)
+<use immagini/s/ele.jpeg>
+Package pdftex.def Info: immagini/s/ele.jpeg  used on input line 3149.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [88] [89 <./immagini/s/ele.jpeg>] [90]
+<immagini/s/gri.jpeg, id=1210, 2569.6pt x 1575.8875pt>
+File: immagini/s/gri.jpeg Graphic file (type jpg)
+<use immagini/s/gri.jpeg>
+Package pdftex.def Info: immagini/s/gri.jpeg  used on input line 3209.
+(pdftex.def)             Requested size: 455.24411pt x 279.17494pt.
+ [91 <./immagini/s/gri.jpeg>] [92] [93] [94] [95]
+<immagini/s/pir.jpeg, id=1232, 2569.6pt x 1575.8875pt>
+File: immagini/s/pir.jpeg Graphic file (type jpg)
+<use immagini/s/pir.jpeg>
+Package pdftex.def Info: immagini/s/pir.jpeg  used on input line 3418.
+(pdftex.def)             Requested size: 455.24411pt x 279.17494pt.
+ [96 <./immagini/s/pir.jpeg>] [97] [98] [99] [100] [101] [102] [103] [104]
+<immagini/s/lem.jpeg, id=1270, 2569.6pt x 1575.8875pt>
+File: immagini/s/lem.jpeg Graphic file (type jpg)
+<use immagini/s/lem.jpeg>
+Package pdftex.def Info: immagini/s/lem.jpeg  used on input line 3743.
+(pdftex.def)             Requested size: 455.24411pt x 279.17494pt.
+ [105 <./immagini/s/lem.jpeg>] [106] [107]
+<immagini/s/ole.jpeg, id=1284, 2013.5225pt x 2013.5225pt>
+File: immagini/s/ole.jpeg Graphic file (type jpg)
+<use immagini/s/ole.jpeg>
+Package pdftex.def Info: immagini/s/ole.jpeg  used on input line 3885.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [108] [109 <./immagini/s/ole.jpeg>] [110] [111] [112] [113]
+<immagini/s/ric.jpeg, id=1310, 2055.68pt x 1260.71pt>
+File: immagini/s/ric.jpeg Graphic file (type jpg)
+<use immagini/s/ric.jpeg>
+Package pdftex.def Info: immagini/s/ric.jpeg  used on input line 4080.
+(pdftex.def)             Requested size: 455.24411pt x 279.18456pt.
+ [114 <./immagini/s/ric.jpeg>]
+<immagini/s/sig.jpeg, id=1315, 2569.6pt x 1575.8875pt>
+File: immagini/s/sig.jpeg Graphic file (type jpg)
+<use immagini/s/sig.jpeg>
+Package pdftex.def Info: immagini/s/sig.jpeg  used on input line 4108.
+(pdftex.def)             Requested size: 455.24411pt x 279.17494pt.
+ [115 <./immagini/s/sig.jpeg>] [116]
+<immagini/s/ara.jpeg, id=1324, 2055.68pt x 1260.71pt>
+File: immagini/s/ara.jpeg Graphic file (type jpg)
+<use immagini/s/ara.jpeg>
+Package pdftex.def Info: immagini/s/ara.jpeg  used on input line 4162.
+(pdftex.def)             Requested size: 455.24411pt x 279.18456pt.
+ [117 <./immagini/s/ara.jpeg>] [118]
+<immagini/s/str.jpeg, id=1333, 1575.8875pt x 2569.6pt>
+File: immagini/s/str.jpeg Graphic file (type jpg)
+<use immagini/s/str.jpeg>
+Package pdftex.def Info: immagini/s/str.jpeg  used on input line 4231.
+(pdftex.def)             Requested size: 250.38564pt x 408.24295pt.
+ [119 <./immagini/s/str.jpeg>] [120]
+<immagini/s/bet.jpeg, id=1343, 2569.6pt x 1575.8875pt>
+File: immagini/s/bet.jpeg Graphic file (type jpg)
+<use immagini/s/bet.jpeg>
+Package pdftex.def Info: immagini/s/bet.jpeg  used on input line 4313.
+(pdftex.def)             Requested size: 455.24411pt x 279.17494pt.
+ [121 <./immagini/s/bet.jpeg>]
+<immagini/s/1.jpeg, id=1348, 2055.68pt x 1220.56pt>
+File: immagini/s/1.jpeg Graphic file (type jpg)
+<use immagini/s/1.jpeg>
+Package pdftex.def Info: immagini/s/1.jpeg  used on input line 4345.
+(pdftex.def)             Requested size: 455.24411pt x 270.29333pt.
+ [122 <./immagini/s/1.jpeg>] [123] [124]
+<immagini/cop4.jpeg, id=1361, 984.67876pt x 1606.0pt>
+File: immagini/cop4.jpeg Graphic file (type jpg)
+<use immagini/cop4.jpeg>
+Package pdftex.def Info: immagini/cop4.jpeg  used on input line 4457.
+(pdftex.def)             Requested size: 364.19667pt x 593.99016pt.
+ [125
+
+ <./immagini/cop4.jpeg>] [126]
+<immagini/c/alb.jpeg, id=1372, 2013.5225pt x 2013.5225pt>
+File: immagini/c/alb.jpeg Graphic file (type jpg)
+<use immagini/c/alb.jpeg>
+Package pdftex.def Info: immagini/c/alb.jpeg  used on input line 4510.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [127 <./immagini/c/alb.jpeg>] [128]
+<immagini/c/all.jpeg, id=1381, 2013.5225pt x 2013.5225pt>
+File: immagini/c/all.jpeg Graphic file (type jpg)
+<use immagini/c/all.jpeg>
+Package pdftex.def Info: immagini/c/all.jpeg  used on input line 4582.
+(pdftex.def)             Requested size: 318.66948pt x 318.66766pt.
+ [129 <./immagini/c/all.jpeg>]
+<immagini/c/alla.jpeg, id=1386, 2013.5225pt x 2013.5225pt>
+File: immagini/c/alla.jpeg Graphic file (type jpg)
+<use immagini/c/alla.jpeg>
+Package pdftex.def Info: immagini/c/alla.jpeg  used on input line 4626.
+(pdftex.def)             Requested size: 227.62206pt x 227.6022pt.
+ [130 <./immagini/c/alla.jpeg>] [131]
+<immagini/c/amo.jpeg, id=1396, 2013.5225pt x 2013.5225pt>
+File: immagini/c/amo.jpeg Graphic file (type jpg)
+<use immagini/c/amo.jpeg>
+Package pdftex.def Info: immagini/c/amo.jpeg  used on input line 4705.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [132] [133 <./immagini/c/amo.jpeg>] [134] [135] [136] [137]
+<immagini/c/boc.jpeg, id=1422, 2013.5225pt x 2013.5225pt>
+File: immagini/c/boc.jpeg Graphic file (type jpg)
+<use immagini/c/boc.jpeg>
+Package pdftex.def Info: immagini/c/boc.jpeg  used on input line 4862.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [138] [139 <./immagini/c/boc.jpeg>] [140]
+<immagini/c/bot.jpeg, id=1435, 2013.5225pt x 2013.5225pt>
+File: immagini/c/bot.jpeg Graphic file (type jpg)
+<use immagini/c/bot.jpeg>
+Package pdftex.def Info: immagini/c/bot.jpeg  used on input line 4921.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [141 <./immagini/c/bot.jpeg>] [142] [143] [144] [145] [146]
+<immagini/c/cis.jpeg, id=1461, 2013.5225pt x 2013.5225pt>
+File: immagini/c/cis.jpeg Graphic file (type jpg)
+<use immagini/c/cis.jpeg>
+Package pdftex.def Info: immagini/c/cis.jpeg  used on input line 5188.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [147 <./immagini/c/cis.jpeg>]
+<immagini/c/com.jpeg, id=1466, 2013.5225pt x 2013.5225pt>
+File: immagini/c/com.jpeg Graphic file (type jpg)
+<use immagini/c/com.jpeg>
+Package pdftex.def Info: immagini/c/com.jpeg  used on input line 5236.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [148] [149 <./immagini/c/com.jpeg>] [150] [151] [152] [153] [154] [155] [156]
+<immagini/c/dim.jpeg, id=1505, 2013.5225pt x 2013.5225pt>
+File: immagini/c/dim.jpeg Graphic file (type jpg)
+<use immagini/c/dim.jpeg>
+Package pdftex.def Info: immagini/c/dim.jpeg  used on input line 5554.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [157 <./immagini/c/dim.jpeg>] [158] [159]
+<immagini/c/epp.jpeg, id=1518, 2013.5225pt x 2013.5225pt>
+File: immagini/c/epp.jpeg Graphic file (type jpg)
+<use immagini/c/epp.jpeg>
+Package pdftex.def Info: immagini/c/epp.jpeg  used on input line 5663.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [160] [161 <./immagini/c/epp.jpeg>] [162] [163] [164]
+<immagini/c/geo.jpeg, id=1540, 2013.5225pt x 2013.5225pt>
+File: immagini/c/geo.jpeg Graphic file (type jpg)
+<use immagini/c/geo.jpeg>
+Package pdftex.def Info: immagini/c/geo.jpeg  used on input line 5793.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [165 <./immagini/c/geo.jpeg>] [166]
+<immagini/c/gli.jpeg, id=1549, 2013.5225pt x 2013.5225pt>
+File: immagini/c/gli.jpeg Graphic file (type jpg)
+<use immagini/c/gli.jpeg>
+Package pdftex.def Info: immagini/c/gli.jpeg  used on input line 5843.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [167 <./immagini/c/gli.jpeg>] [168]
+<immagini/c/hal.jpeg, id=1559, 2013.5225pt x 2013.5225pt>
+File: immagini/c/hal.jpeg Graphic file (type jpg)
+<use immagini/c/hal.jpeg>
+Package pdftex.def Info: immagini/c/hal.jpeg  used on input line 5898.
+(pdftex.def)             Requested size: 318.66948pt x 318.66766pt.
+ [169 <./immagini/c/hal.jpeg>] [170]
+<immagini/c/han.jpeg, id=1568, 2013.5225pt x 2013.5225pt>
+File: immagini/c/han.jpeg Graphic file (type jpg)
+<use immagini/c/han.jpeg>
+Package pdftex.def Info: immagini/c/han.jpeg  used on input line 5952.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [171 <./immagini/c/han.jpeg>] [172] [173] [174]
+<immagini/c/ice.jpeg, id=1586, 2013.5225pt x 2013.5225pt>
+File: immagini/c/ice.jpeg Graphic file (type jpg)
+<use immagini/c/ice.jpeg>
+Package pdftex.def Info: immagini/c/ice.jpeg  used on input line 6094.
+(pdftex.def)             Requested size: 364.19667pt x 364.16968pt.
+ [175 <./immagini/c/ice.jpeg>] [176]
+<immagini/c/ilc.jpeg, id=1595, 2013.5225pt x 2013.5225pt>
+File: immagini/c/ilc.jpeg Graphic file (type jpg)
+<use immagini/c/ilc.jpeg>
+Package pdftex.def Info: immagini/c/ilc.jpeg  used on input line 6149.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [177 <./immagini/c/ilc.jpeg>] [178]
+<immagini/c/ilf.jpeg, id=1604, 2013.5225pt x 2013.5225pt>
+File: immagini/c/ilf.jpeg Graphic file (type jpg)
+<use immagini/c/ilf.jpeg>
+Package pdftex.def Info: immagini/c/ilf.jpeg  used on input line 6207.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [179 <./immagini/c/ilf.jpeg>] [180]
+<immagini/c/ilg.jpeg, id=1614, 2013.5225pt x 2013.5225pt>
+File: immagini/c/ilg.jpeg Graphic file (type jpg)
+<use immagini/c/ilg.jpeg>
+Package pdftex.def Info: immagini/c/ilg.jpeg  used on input line 6261.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [181 <./immagini/c/ilg.jpeg>] [182] [183] [184] [185] [186]
+<immagini/c/inu.jpeg, id=1640, 2013.5225pt x 2013.5225pt>
+File: immagini/c/inu.jpeg Graphic file (type jpg)
+<use immagini/c/inu.jpeg>
+Package pdftex.def Info: immagini/c/inu.jpeg  used on input line 6466.
+(pdftex.def)             Requested size: 227.62206pt x 227.6022pt.
+ [187 <./immagini/c/inu.jpeg>] [188] [189] [190] [191] [192] [193]
+<immagini/c/kno.jpeg, id=1670, 2013.5225pt x 2013.5225pt>
+File: immagini/c/kno.jpeg Graphic file (type jpg)
+<use immagini/c/kno.jpeg>
+Package pdftex.def Info: immagini/c/kno.jpeg  used on input line 6705.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [194] [195 <./immagini/c/kno.jpeg>] [196] [197] [198]
+<immagini/c/lac.jpeg, id=1692, 2013.5225pt x 2013.5225pt>
+File: immagini/c/lac.jpeg Graphic file (type jpg)
+<use immagini/c/lac.jpeg>
+Package pdftex.def Info: immagini/c/lac.jpeg  used on input line 6833.
+(pdftex.def)             Requested size: 273.14923pt x 273.13493pt.
+ [199 <./immagini/c/lac.jpeg>] [200] [201] [202] [203] [204] [205] [206]
+<immagini/c/lak.jpeg, id=1726, 2013.5225pt x 2013.5225pt>
+File: immagini/c/lak.jpeg Graphic file (type jpg)
+<use immagini/c/lak.jpeg>
+Package pdftex.def Info: immagini/c/lak.jpeg  used on input line 7085.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [207 <./immagini/c/lak.jpeg>] [208]
+<immagini/c/let.jpeg, id=1735, 2013.5225pt x 2013.5225pt>
+File: immagini/c/let.jpeg Graphic file (type jpg)
+<use immagini/c/let.jpeg>
+Package pdftex.def Info: immagini/c/let.jpeg  used on input line 7141.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [209 <./immagini/c/let.jpeg>] [210] [211]
+<immagini/c/lin.jpeg, id=1749, 2013.5225pt x 2013.5225pt>
+File: immagini/c/lin.jpeg Graphic file (type jpg)
+<use immagini/c/lin.jpeg>
+Package pdftex.def Info: immagini/c/lin.jpeg  used on input line 7261.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [212] [213 <./immagini/c/lin.jpeg>] [214] [215] [216] [217] [218]
+<immagini/c/mes.jpeg, id=1779, 2013.5225pt x 2013.5225pt>
+File: immagini/c/mes.jpeg Graphic file (type jpg)
+<use immagini/c/mes.jpeg>
+Package pdftex.def Info: immagini/c/mes.jpeg  used on input line 7432.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [219 <./immagini/c/mes.jpeg>]
+<immagini/c/nin.jpeg, id=1784, 2013.5225pt x 2013.5225pt>
+File: immagini/c/nin.jpeg Graphic file (type jpg)
+<use immagini/c/nin.jpeg>
+Package pdftex.def Info: immagini/c/nin.jpeg  used on input line 7477.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [220] [221 <./immagini/c/nin.jpeg>] [222] [223] [224]
+<immagini/c/pas.jpeg, id=1806, 2013.5225pt x 2013.5225pt>
+File: immagini/c/pas.jpeg Graphic file (type jpg)
+<use immagini/c/pas.jpeg>
+Package pdftex.def Info: immagini/c/pas.jpeg  used on input line 7602.
+(pdftex.def)             Requested size: 227.62206pt x 227.6022pt.
+ [225 <./immagini/c/pas.jpeg>] [226]
+<immagini/c/per.jpeg, id=1815, 2013.5225pt x 2013.5225pt>
+File: immagini/c/per.jpeg Graphic file (type jpg)
+<use immagini/c/per.jpeg>
+Package pdftex.def Info: immagini/c/per.jpeg  used on input line 7654.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [227 <./immagini/c/per.jpeg>] [228] [229] [230] [231]
+<immagini/c/pin.jpeg, id=1837, 2013.5225pt x 2013.5225pt>
+File: immagini/c/pin.jpeg Graphic file (type jpg)
+<use immagini/c/pin.jpeg>
+Package pdftex.def Info: immagini/c/pin.jpeg  used on input line 7813.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [232] [233 <./immagini/c/pin.jpeg>] [234] [235] [236] [237] [238] [239]
+<immagini/c/rip.jpeg, id=1872, 2013.5225pt x 2013.5225pt>
+File: immagini/c/rip.jpeg Graphic file (type jpg)
+<use immagini/c/rip.jpeg>
+Package pdftex.def Info: immagini/c/rip.jpeg  used on input line 8050.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [240] [241 <./immagini/c/rip.jpeg>] [242] [243]
+<immagini/c/sar.jpeg, id=1889, 2013.5225pt x 2013.5225pt>
+File: immagini/c/sar.jpeg Graphic file (type jpg)
+<use immagini/c/sar.jpeg>
+Package pdftex.def Info: immagini/c/sar.jpeg  used on input line 8161.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [244] [245 <./immagini/c/sar.jpeg>] [246] [247] [248]
+<immagini/c/sei.jpeg, id=1911, 2013.5225pt x 2013.5225pt>
+File: immagini/c/sei.jpeg Graphic file (type jpg)
+<use immagini/c/sei.jpeg>
+Package pdftex.def Info: immagini/c/sei.jpeg  used on input line 8288.
+(pdftex.def)             Requested size: 364.19667pt x 364.16968pt.
+ [249 <./immagini/c/sei.jpeg>] [250] [251] [252]
+<immagini/c/spa.jpeg, id=1929, 2013.5225pt x 2013.5225pt>
+File: immagini/c/spa.jpeg Graphic file (type jpg)
+<use immagini/c/spa.jpeg>
+Package pdftex.def Info: immagini/c/spa.jpeg  used on input line 8432.
+(pdftex.def)             Requested size: 318.66948pt x 318.66766pt.
+ [253 <./immagini/c/spa.jpeg>] [254] [255]
+<immagini/c/tak.jpeg, id=1942, 2013.5225pt x 2013.5225pt>
+File: immagini/c/tak.jpeg Graphic file (type jpg)
+<use immagini/c/tak.jpeg>
+Package pdftex.def Info: immagini/c/tak.jpeg  used on input line 8537.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [256] [257 <./immagini/c/tak.jpeg>] [258]
+<immagini/c/tra.jpeg, id=1956, 2013.5225pt x 2013.5225pt>
+File: immagini/c/tra.jpeg Graphic file (type jpg)
+<use immagini/c/tra.jpeg>
+Package pdftex.def Info: immagini/c/tra.jpeg  used on input line 8589.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [259 <./immagini/c/tra.jpeg>] [260] [261] [262] [263]
+<immagini/c/via.jpeg, id=1978, 2013.5225pt x 2013.5225pt>
+File: immagini/c/via.jpeg Graphic file (type jpg)
+<use immagini/c/via.jpeg>
+Package pdftex.def Info: immagini/c/via.jpeg  used on input line 8767.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [264] [265 <./immagini/c/via.jpeg>] [266] [267] [268]
+<immagini/c/won.jpeg, id=1999, 2013.5225pt x 2013.5225pt>
+File: immagini/c/won.jpeg Graphic file (type jpg)
+<use immagini/c/won.jpeg>
+Package pdftex.def Info: immagini/c/won.jpeg  used on input line 8949.
+(pdftex.def)             Requested size: 455.24411pt x 455.23514pt.
+ [269 <./immagini/c/won.jpeg>] [270] [271] [272] (preghiere.sbx) (chiesa.sbx) [273
+
+] (scout.sbx) [274] (cantautori.sbx) [275] [276]
+\openout3 = `preghiere.sxd'.
+
+ (canzoniere_demo.sxc)
+\openout3 = `chiesa.sxd'.
+
+ (canzoniere_demo.sxc)
+\openout3 = `scout.sxd'.
+
+ (canzoniere_demo.sxc)
+\openout3 = `cantautori.sxd'.
+
+ (canzoniere_demo.sxc) [277] (canzoniere_demo.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+Package rerunfilecheck Info: File `canzoniere_demo.out' has not changed.
+(rerunfilecheck)             Checksum: D1F60A8BB9DE5AEDCA0136F9F6DBDC6A;36133.
+ ) 
+Here is how much of TeX's memory you used:
+ 13264 strings out of 474486
+ 210384 string characters out of 5743755
+ 1989542 words of memory out of 5000000
+ 34889 multiletter control sequences out of 15000+600000
+ 627278 words of font info for 70 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,11n,79p,454b,665s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/2003a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/Users/2003a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/2003a/AppData/Local/Programs/MiKTeX/fonts/type1/urw/arial/ua1b8a.pfb><C:/Users/2003a/AppData/Local/Programs/MiKTeX/fonts/type1/urw/arial/ua1r8a.pfb>
+Output written on canzoniere_demo.pdf (279 pages, 12439886 bytes).
+PDF statistics:
+ 2360 PDF objects out of 2487 (max. 8388607)
+ 481 named destinations out of 1000 (max. 500000)
+ 1950 words of extra memory for PDF output out of 10000 (max. 10000000)
+
