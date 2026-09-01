@@ -1,0 +1,335 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.8.24)  26 FEB 2026 18:41
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/2003a/OneDrive/Documenti/canzoniere nuovo/canzoniere_demo.tex"
+(c:/Users/2003a/OneDrive/Documenti/canzoniere nuovo/canzoniere_demo.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count195
+\Gm@cntv=\count196
+\c@Gm@tempcnt=\count197
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks18
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/arial\uarial.sty
+Package: uarial 2006/03/21 1.0 (WaS)
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/anyfontsize\anyfontsize.sty
+Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip50
+\f@nch@offset@elh=\skip51
+\f@nch@offset@erh=\skip52
+\f@nch@offset@olh=\skip53
+\f@nch@offset@orh=\skip54
+\f@nch@offset@elf=\skip55
+\f@nch@offset@erf=\skip56
+\f@nch@offset@olf=\skip57
+\f@nch@offset@orf=\skip58
+\f@nch@height=\skip59
+\f@nch@footalignment=\skip60
+\f@nch@widthL=\skip61
+\f@nch@widthC=\skip62
+\f@nch@widthR=\skip63
+\@temptokenb=\toks21
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+\babel@savecnt=\count198
+\U@D=\dimen149
+\l@unhyphenated=\language79
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count199
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/babel-italian\italian.ldf
+Language: italian 2024/10/10 v.1.5.01 Italian support for the babel system
+\it@lettering=\count266
+\it@doublequoteactive=\count267
+\it@ISOcompliance=\count268
+)) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/it\babel-italian.tex
+Package babel Info: Importing font and identification data for italian
+(babel)             from babel-it.ini. Reported on input line 11.
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count269
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/songs\songs.sty
+Package: songs 2018/09/12 v3.1 Songs package
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+\SB@dimen=\dimen150
+\SB@dimenii=\dimen151
+\SB@dimeniii=\dimen152
+\SB@dimeniv=\dimen153
+\SB@box=\box51
+\SB@boxii=\box52
+\SB@boxiii=\box53
+\SB@toks=\toks22
+\SB@cnt=\count270
+\SB@cntii=\count271
+\SB@skip=\skip64
+\SB@envbox=\box54
+\c@songnum=\count272
+\c@versenum=\count273
+\versesep=\skip65
+\afterpreludeskip=\skip66
+\beforepostludeskip=\skip67
+\baselineadj=\skip68
+\idxheadwidth=\skip69
+\songnumwidth=\skip70
+LaTeX Font Info:    Trying to load font information for T1+ua1 on input line 141.
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/arial\t1ua1.fd
+File: t1ua1.fd 2006/03/21 Fontinst v1.928 font definitions for T1/ua1.
+)
+LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
+(Font)              scaled to size 10.40245pt on input line 141.
+LaTeX Font Info:    Font shape `T1/ua1/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ua1/b/n' tried instead on input line 141.
+LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
+(Font)              scaled to size 10.40245pt on input line 141.
+LaTeX Font Info:    Font shape `T1/ua1/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ua1/b/n' tried instead on input line 141.
+LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
+(Font)              scaled to size 16.41594pt on input line 141.
+\versenumwidth=\skip71
+\cbarwidth=\skip72
+\sbarheight=\skip73
+\vvpenalty=\count274
+\ccpenalty=\count275
+\vcpenalty=\count276
+\cvpenalty=\count277
+\brkpenalty=\count278
+\spenalty=\count279
+\minfrets=\count280
+\SB@colwidth=\dimen154
+\SB@songbox=\box55
+\SB@numcols=\count281
+\SB@colnum=\count282
+\SB@colbox=\box56
+\SB@pgbox=\box57
+\SB@mrkbox=\box58
+\SB@groupcnt=\count283
+\SB@titlelist=\toks23
+\SB@titletail=\toks24
+\SB@parindent=\dimen155
+\SB@chorusbox=\box59
+\SB@cmarkclass=\marks4
+\SB@nocmarkclass=\marks5
+\SB@grouplvl=\count284
+\SB@transposefactor=\count285
+\SB@lyric=\toks25
+\SB@numhyps=\count286
+\SB@lyricnohyp=\toks26
+\SB@lyricbox=\box60
+\SB@chordbox=\box61
+\SB@cr@=\toks27
+\SB@ctail=\toks28
+\SB@fretwidth=\skip74
+\SB@tabindent=\dimen156
+\c@SB@songsnum=\count287
+\SB@songwrites=\box62
+LaTeX Font Info:    Font shape `T1/ua1/m/sl' in size <10.95> not available
+(Font)              Font shape `T1/ua1/m/it' tried instead on input line 3785.
+LaTeX Font Info:    Font shape `T1/ua1/m/it' will be
+(Font)              scaled to size 10.40245pt on input line 3785.
+LaTeX Font Info:    Font shape `T1/ua1/m/sl' in size <12> not available
+(Font)              Font shape `T1/ua1/m/it' tried instead on input line 3785.
+LaTeX Font Info:    Font shape `T1/ua1/m/it' will be
+(Font)              scaled to size 11.39996pt on input line 3785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 3785.
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+) (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)))
+\SB@out=\write3
+\openout3 = `canzoniere_demo.sxc'.
+
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count288
+\l__pdf_internal_box=\box63
+) (c:\Users\2003a\OneDrive\Documenti\canzoniere nuovo\%OUTDIR%\canzoniere_demo.aux)
+\openout1 = `canzoniere_demo.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=28.45274pt
+* \marginparwidth=103.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \it@ocap on input line 69.
+LaTeX Info: Redefining \it@ccap on input line 69.
+(C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count289
+\scratchdimen=\dimen157
+\scratchbox=\box64
+\nofMPsegments=\count290
+\nofMParguments=\count291
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count292
+\MPscratchDim=\dimen158
+\MPnumerator=\count293
+\makeMPintoPDFobject=\count294
+\everyMPtoPDFconversion=\toks30
+)
+LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
+(Font)              scaled to size 13.67995pt on input line 89.
+LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
+(Font)              scaled to size 13.67995pt on input line 89.
+ [1
+
+{C:/Users/2003a/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/2003a/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
+LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
+(Font)              scaled to size 11.39996pt on input line 95.
+LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
+(Font)              scaled to size 11.39996pt on input line 95.
+LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
+(Font)              scaled to size 14.24995pt on input line 111.
+LaTeX Font Info:    Font shape `T1/ua1/m/n' will be
+(Font)              scaled to size 5.69998pt on input line 111.
+LaTeX Font Info:    Font shape `T1/ua1/m/sl' in size <6> not available
+(Font)              Font shape `T1/ua1/m/it' tried instead on input line 111.
+LaTeX Font Info:    Font shape `T1/ua1/m/it' will be
+(Font)              scaled to size 5.69998pt on input line 111.
+LaTeX Font Info:    Font shape `T1/ua1/b/n' will be
+(Font)              scaled to size 5.69998pt on input line 111.
+ [2] [3] [4] [5] [6
+
+] [7
+
+] [8] [9]
+LaTeX Font Info:    Trying to load font information for TS1+ua1 on input line 424.
+ (C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex/latex/arial\ts1ua1.fd
+File: ts1ua1.fd 2006/03/21 Fontinst v1.928 font definitions for TS1/ua1.
+)
+LaTeX Font Info:    Font shape `TS1/ua1/b/n' will be
+(Font)              scaled to size 11.39996pt on input line 424.
+ [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54
+
+] [55
+
+]
+\openout3 = `cbtitle.sxd'.
+
+ (c:\Users\2003a\OneDrive\Documenti\canzoniere nuovo\%OUTDIR%\canzoniere_demo.sxc) (c:\Users\2003a\OneDrive\Documenti\canzoniere nuovo\%OUTDIR%\canzoniere_demo.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 4652 strings out of 474486
+ 73053 string characters out of 5743755
+ 1958542 words of memory out of 5000000
+ 26902 multiletter control sequences out of 15000+600000
+ 627293 words of font info for 70 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,11n,65p,255b,607s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/2003a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/Users/2003a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/2003a/AppData/Local/Programs/MiKTeX/fonts/type1/urw/arial/ua1b8a.pfb><C:/Users/2003a/AppData/Local/Programs/MiKTeX/fonts/type1/urw/arial/ua1r8a.pfb>
+Output written on "c:\Users\2003a\OneDrive\Documenti\canzoniere nuovo\%OUTDIR%\canzoniere_demo.pdf" (55 pages, 115362 bytes).
+PDF statistics:
+ 201 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

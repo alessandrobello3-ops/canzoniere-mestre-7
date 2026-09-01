@@ -1,0 +1,134 @@
+PWD c:\Users\2003a\OneDrive\Documenti\canzoniere nuovo
+INPUT C:\Users\2003a\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\2003a\OneDrive\Documenti\canzoniere nuovo\canzoniere_demo.tex
+OUTPUT c:\Users\2003a\OneDrive\Documenti\canzoniere nuovo\%OUTDIR%\canzoniere_demo.log
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\arial\uarial.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\arial\uarial.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\anyfontsize\anyfontsize.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\anyfontsize\anyfontsize.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1095.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\babel-italian\italian.ldf
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\babel-italian\italian.ldf
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\babel-italian\italian.ldf
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\it\babel-italian.tex
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\it\babel-italian.tex
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\it\babel-italian.tex
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\it\babel-it.ini
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\songs\songs.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\songs\songs.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\arial\t1ua1.fd
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\arial\t1ua1.fd
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\arial\t1ua1.fd
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\urw\arial\ua1r8t.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\urw\arial\ua1b8t.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\urw\arial\ua1b8t.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\urw\arial\ua1ri8t.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\urw\arial\ua1ri8t.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+OUTPUT c:\Users\2003a\OneDrive\Documenti\canzoniere nuovo\%OUTDIR%\canzoniere_demo.sxc
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1095.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT c:\Users\2003a\OneDrive\Documenti\canzoniere nuovo\%OUTDIR%\canzoniere_demo.aux
+INPUT c:\Users\2003a\OneDrive\Documenti\canzoniere nuovo\%OUTDIR%\canzoniere_demo.aux
+INPUT c:\Users\2003a\OneDrive\Documenti\canzoniere nuovo\%OUTDIR%\canzoniere_demo.aux
+OUTPUT c:\Users\2003a\OneDrive\Documenti\canzoniere nuovo\%OUTDIR%\canzoniere_demo.aux
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\urw\arial\ua1r8t.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\urw\arial\ua1b8t.tfm
+OUTPUT c:\Users\2003a\OneDrive\Documenti\canzoniere nuovo\%OUTDIR%\canzoniere_demo.pdf
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\vf\urw\arial\ua1b8t.vf
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\urw\arial\ua1b8r.tfm
+INPUT C:\Users\2003a\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\vf\urw\arial\ua1r8t.vf
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\urw\arial\ua1r8r.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\urw\arial\ua1r8t.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\urw\arial\ua1b8t.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\urw\arial\ua1b8t.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\urw\arial\ua1r8t.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\urw\arial\ua1ri8t.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\urw\arial\ua1b8t.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\vf\urw\arial\ua1b8t.vf
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\urw\arial\ua1b8r.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\vf\urw\arial\ua1r8t.vf
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\urw\arial\ua1r8r.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\vf\urw\arial\ua1b8t.vf
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\urw\arial\ua1b8r.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\arial\ts1ua1.fd
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\arial\ts1ua1.fd
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\tex\latex\arial\ts1ua1.fd
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\urw\arial\ua1b8c.tfm
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\vf\urw\arial\ua1b8c.vf
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbsy10.tfm
+OUTPUT c:\Users\2003a\OneDrive\Documenti\canzoniere nuovo\%OUTDIR%\cbtitle.sxd
+INPUT c:\Users\2003a\OneDrive\Documenti\canzoniere nuovo\%OUTDIR%\canzoniere_demo.sxc
+INPUT c:\Users\2003a\OneDrive\Documenti\canzoniere nuovo\%OUTDIR%\canzoniere_demo.sxc
+INPUT c:\Users\2003a\OneDrive\Documenti\canzoniere nuovo\%OUTDIR%\canzoniere_demo.sxc
+INPUT c:\Users\2003a\OneDrive\Documenti\canzoniere nuovo\%OUTDIR%\canzoniere_demo.aux
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbsy10.pfb
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbsy10.pfb
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\type1\urw\arial\ua1b8a.pfb
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\type1\urw\arial\ua1b8a.pfb
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\type1\urw\arial\ua1r8a.pfb
+INPUT C:\Users\2003a\AppData\Local\Programs\MiKTeX\fonts\type1\urw\arial\ua1r8a.pfb
